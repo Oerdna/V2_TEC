@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name XT60-PW)(type KiCad)(uri S:/LetiProject/TEC2/Amass_XT60PW-M_footprints)(options "")(descr ""))
+  (lib (name monkey)(type KiCad)(uri S:/LetiProject/TEC2/Arts)(options "")(descr ""))
+)
